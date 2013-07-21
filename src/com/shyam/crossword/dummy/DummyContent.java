@@ -38,6 +38,9 @@ public class DummyContent {
         addItem(new DummyItem("11", "Item 11"));
         addItem(new DummyItem("12", "Item 12"));
         addItem(new DummyItem("13", "Item 13"));
+        addItem(new DummyItem("14", "Masaal Dosai"));
+        addItem(new DummyItem("15", "Medhu Vadai"));
+        addItem(new DummyItem("16", "Sozhaa Boori"));
     }
 
     private static void addItem(DummyItem item) {
